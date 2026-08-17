@@ -31,6 +31,7 @@
 | **Hobbies** | Painting · Travelling |
 | **Interests** | Problem Solving · Learning |
 
+</br>
 </div>
 
 
