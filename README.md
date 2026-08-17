@@ -34,7 +34,6 @@ Beyond engineering, I enjoy contributing to AI research, exploring responsible A
  
 I'm always excited to connect with developers, engineers, researchers, and innovators who are passionate about building the future through technology. If you're working on ambitious ideas in AI, software engineering, backend engineering, or scalable systems, I'd love to connect.
 
->  *"I love building technology that solves real problems — whether it's developing AI-powered applications, designing scalable backend systems, or working through the fundamentals with data structures and algorithms."*
 
 </td>
 </tr>
