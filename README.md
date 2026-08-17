@@ -144,33 +144,78 @@ I'm always excited to connect with developers, engineers, researchers, and innov
 
 ## &nbsp; CERTIFICATIONS
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" height="3">
-
-</div>
-
-<table width="100%" border="3" cellpadding="14" cellspacing="0" align="center" style="border:3px solid #FFD700;border-collapse:collapse;text-align:center;">
-<tr style="background:#0A0A23;">
-<th style="border:3px solid #FFD700;color:#FFD700;"> CERTIFICATION</th>
-<th style="border:3px solid #FFD700;color:#FFD700;"> ISSUER</th>
-<th style="border:3px solid #FFD700;color:#FFD700;"> DETAILS</th>
-</tr>
-<tr>
-<td style="border:3px solid #FFD700;"><b>AWS Certified Cloud Practitioner</b></td>
-<td style="border:3px solid #FFD700;">Amazon Web Services</td>
-<td style="border:3px solid #FFD700;">Issued Jul 2026 · Expires Jul 2029</td>
-</tr>
-<tr>
-<td style="border:3px solid #FFD700;"><b>Internet of Things</b></td>
-<td style="border:3px solid #FFD700;">NPTEL</td>
-<td style="border:3px solid #FFD700;">Issued May 2026</td>
-</tr>
-</table>
-
-<div align="center"><sub> Full certification list (10 total) available on <a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a">LinkedIn</a></sub></div>
-
-<br/>
+## &nbsp; CERTIFICATIONS
 
 <div align="center">
+
+<table width="100%" border="1" cellpadding="10" cellspacing="0" style="border-collapse:collapse;">
+
+<tr>
+<th>Certification</th>
+<th>Issuer</th>
+<th>Issued</th>
+<th>Credential</th>
+</tr>
+
+<tr>
+<td><b>AWS Cloud Practitioner</b></td>
+<td>Amazon Web Services (AWS)</td>
+<td>Jul 2026 · Expires Jul 2029</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/525423470/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Certificate</a></td>
+</tr>
+
+<tr>
+<td><b>Internet of Things</b></td>
+<td>NPTEL</td>
+<td>May 2026</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/685914055/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Certificate</a></td>
+</tr>
+
+<tr>
+<td><b>Java (Basic)</b></td>
+<td>HackerRank</td>
+<td>Dec 2024</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/1002879618/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Certificate</a></td>
+</tr>
+
+<tr>
+<td><b>JavaScript (Intermediate)</b></td>
+<td>HackerRank</td>
+<td>Dec 2024</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/717397372/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Certificate</a></td>
+</tr>
+
+<tr>
+<td><b>Operating System and System Programming</b></td>
+<td>Cursa</td>
+<td>Dec 2024</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/646899986/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Certificate</a></td>
+</tr>
+
+<tr>
+<td><b>5 Stars — C++</b></td>
+<td>HackerRank</td>
+<td>—</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/644381131/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Credential</a></td>
+</tr>
+
+<tr>
+<td><b>5 Stars — Java</b></td>
+<td>HackerRank</td>
+<td>—</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/629239644/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Credential</a></td>
+</tr>
+
+<tr>
+<td><b>Networking Basics</b></td>
+<td>Cisco Networking Academy</td>
+<td>Dec 2024</td>
+<td><a href="https://www.linkedin.com/in/anupama-kumari-a6946b28a/overlay/Certifications/143125440/treasury/?profileId=ACoAAEYxBjEB5APlRclVRpzxZ_8MlDFMNBcodYE">View Certificate</a></td>
+</tr>
+
+</table>
+
+</div>
 
 ## &nbsp; RESEARCH
 
