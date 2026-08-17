@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,60:2F80ED,100:8E2DE2&height=250&section=header&text=Anupama%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Exploring%20the%20Tech%20World%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Systems&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
