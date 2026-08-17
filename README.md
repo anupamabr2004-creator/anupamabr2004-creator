@@ -19,29 +19,20 @@
 <td>
 
 ### &nbsp; ABOUT ME
-
-I love building technology that solves real problems.
- 
-Whether it's developing AI-powered applications, designing scalable backend systems, or engineering intelligent software, I enjoy turning ideas into products that are efficient, reliable, and impactful. I'm driven by curiosity and constantly challenge myself to learn new technologies, explore complex problems, and build solutions that push me beyond my comfort zone.
- 
-Programming is more than a skill for me—it's a way of thinking. I enjoy breaking down complex challenges into elegant, efficient solutions and writing clean, maintainable code. With experience in Python, C++, JavaScript, and SQL, I love working across different domains, from AI and machine learning to backend development and distributed systems. 
- 
-My interests span Artificial Intelligence, Machine Learning, Backend Development, Distributed Systems, and Cloud Technologies. I enjoy working across the entire development lifecycle—from designing system architectures and developing REST APIs to building multi-agent AI systems, containerized applications, and cloud-inspired platforms. I'm particularly fascinated by intelligent systems that combine strong engineering principles with modern AI to create meaningful user experiences. 
- 
-I believe great software isn't just about writing code—it's about understanding problems deeply, designing thoughtful solutions, and continuously improving through experimentation and learning. Every project I take on is an opportunity to strengthen my technical expertise while creating something valuable.
- 
-Beyond engineering, I enjoy contributing to AI research, exploring responsible AI, and staying up to date with emerging technologies. I value collaboration, continuous learning, and building technology that is both innovative and practical. 
- 
-I'm always excited to connect with developers, engineers, researchers, and innovators who are passionate about building the future through technology. If you're working on ambitious ideas in AI, software engineering, backend engineering, or scalable systems, I'd love to connect.
-
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
+
+| | |
+|:---:|:---:|
+| **Education** | B.Tech. Computer Science with specialization in AI/ML, VIT Bhopal University |
+| **Year** | 2023-2027 |
+| **CGPA** | 9.17 / 10 |
+| **Email** | anupama.br2004@gmail.com |
+| **Location** | Bhopal, India |
+| **Hobbies** | Painting · Travelling |
+| **Interests** | Problem Solving · Learning |
+
+</div>
+
 
 ## &nbsp; FEATURED WORK
 
