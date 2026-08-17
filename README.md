@@ -19,7 +19,7 @@
 <td>
 
 ### &nbsp; ABOUT ME
-<div align="center">
+<div>
 
 | | |
 |:---:|:---:|
