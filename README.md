@@ -247,7 +247,6 @@ memory querying.</i></p>
 
 ### &nbsp; EvolveMoralMaze: Introducing Middle School Students to AI Ethics
 
-![WIP]
 ![Conference](https://img.shields.io/badge/IEEE_FIE-2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 
 Research on **AI ethics education methodologies** designed for middle school students — exploring how abstract ethical reasoning around AI systems can be made accessible through interactive learning.
