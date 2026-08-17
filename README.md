@@ -193,37 +193,7 @@ Research on **AI ethics education methodologies** designed for middle school stu
 
 <div align="center">
 
-## &nbsp; GITHUB ANALYTICS
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" height="3">
-
-<br/><br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anupamabr2004-creator&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=8E2DE2&icon_color=2F80ED&text_color=ffffff&bg_color=0A0A23" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anupamabr2004-creator&theme=radical&hide_border=true&background=0A0A23&ring=8E2DE2&fire=FF6B6B&currStreakLabel=2F80ED" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupamabr2004-creator&layout=compact&theme=radical&hide_border=true&title_color=8E2DE2&bg_color=0A0A23" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anupamabr2004-creator&theme=redical&hide_border=true&area=true&bg_color=0A0A23&color=8E2DE2&line=2F80ED&point=FF6B6B" width="92%"/>
-
-</div>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anupamabr2004-creator&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" width="92%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:2F80ED,100:0F2027&height=4&width=100%" width="100%"/>
-
-<div align="center">
 
 ## &nbsp; LET'S CONNECT
 
