@@ -2,19 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:2C5364,60:2F80ED,100:8E2DE2&height=250&section=header&text=Anupama%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Exploring%20the%20Tech%20World%20%7C%20AI%20%C2%B7%20ML%20%C2%B7%20Systems&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+%F0%9F%A4%96;Retrieval-Augmented+Generation+%7C+LLMs+%F0%9F%A7%A0;Scalable+Backend+Systems+%E2%9A%99%EF%B8%8F;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=8E2DE2&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Retrieval-Augmented+Generation;Scalable+Backend+Systems;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-Anupama_Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/anupama-kumari-a6946b28a)
 ![Location](https://img.shields.io/badge/-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000)
 ![Status](https://img.shields.io/badge/-Open_to_Opportunities-39FF14?style=for-the-badge&logo=target&logoColor=black&labelColor=000000)
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 </div>
 
