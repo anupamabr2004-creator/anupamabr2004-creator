@@ -67,14 +67,19 @@ usage. </i></p>
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-<p align="center"><b><a href="https://github.com/anupamabr2004-creator/conflict-aware-rag"> View Repository</a></b></p>
+<p align="center"><b><a href="https://conflict-aware-rag.onrender.com/"> View Demo</a></b></p>
 
 </td>
 <td width="50%" valign="top" style="border:3px solid #8E2DE2;border-radius:10px;">
 
 <h3 align="center">&nbsp; CampusSync AI</h3>
 
-<p align="center"><i>A <b>full-stack academic collaboration platform</b> engineered end-to-end and deployed to support campus-wide student coordination.</i></p>
+<p align="center"><i>Architected a full-stack collaboration platform using React, Node.js/Express, TypeScript and Tailwind CSS across 8 
+modular components and 15+ REST API endpoints. </i></p>
+<p align="center"><i>Implemented JWT authentication and 3-tier RBAC (Student, Faculty, Admin) paired with a dual-layer persistence 
+system (Firebase Firestore with local JSON fallback). </i></p>
+<p align="center"><i>Integrated Google Gemini API to deliver automated natural language task breakdowns and context-aware project 
+memory querying.</i></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -82,7 +87,7 @@ usage. </i></p>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-<p align="center"><b><a href="https://github.com/anupamabr2004-creator/CampusSync-AI-Agent"> View Repository</a></b></p>
+<p align="center"><b><a href="https://campussync-ai-agent.onrender.com/"> View Demo</a></b></p>
 
 </td>
 </tr>
