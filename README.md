@@ -85,32 +85,7 @@ whoami:
 
 <div align="center">
 
-## &nbsp; RESEARCH
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" height="3">
-
-</div>
-
-<table width="100%" border="3" cellpadding="18" cellspacing="0" style="border:3px solid #39FF14;border-radius:10px;border-collapse:collapse;">
-<tr>
-<td>
-
-### &nbsp; EvolveMoralMaze: Introducing Middle School Students to AI Ethics
-
-![WIP](https://img.shields.io/badge/STATUS-WORK_IN_PROGRESS-yellow?style=for-the-badge)
-![Conference](https://img.shields.io/badge/IEEE_FIE-2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)
-
-Research on **AI ethics education methodologies** designed for middle school students — exploring how abstract ethical reasoning around AI systems can be made accessible through interactive learning.
-
-**[ View Publication →](https://ieeexplore.ieee.org/document/11328302)**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
 
 ## &nbsp; TECH STACK
 
@@ -193,7 +168,32 @@ Research on **AI ethics education methodologies** designed for middle school stu
 
 <div align="center">
 
+## &nbsp; RESEARCH
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" height="3">
+
+</div>
+
+<table width="100%" border="3" cellpadding="18" cellspacing="0" style="border:3px solid #39FF14;border-radius:10px;border-collapse:collapse;">
+<tr>
+<td>
+
+### &nbsp; EvolveMoralMaze: Introducing Middle School Students to AI Ethics
+
+![WIP](https://img.shields.io/badge/STATUS-WORK_IN_PROGRESS-yellow?style=for-the-badge)
+![Conference](https://img.shields.io/badge/IEEE_FIE-2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)
+
+Research on **AI ethics education methodologies** designed for middle school students — exploring how abstract ethical reasoning around AI systems can be made accessible through interactive learning.
+
+**[ View Publication →](https://ieeexplore.ieee.org/document/11328302)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
 
 ## &nbsp; LET'S CONNECT
 
