@@ -67,7 +67,13 @@ usage. </i></p>
 <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-<p align="center"><b><a href="https://conflict-aware-rag.onrender.com/"> View Demo</a></b></p>
+<p align="center">
+  <b>
+    <a href="https://conflict-aware-rag.onrender.com/">View Demo</a>
+    &nbsp; | &nbsp;
+    <a href="https://github.com/anupamabr2004-creator/conflict-aware-rag">View Repository</a>
+  </b>
+</p>
 
 </td>
 <td width="50%" valign="top" style="border:3px solid #8E2DE2;border-radius:10px;">
@@ -87,7 +93,13 @@ memory querying.</i></p>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-<p align="center"><b><a href="https://campussync-ai-agent.onrender.com/"> View Demo</a></b></p>
+<p align="center">
+  <b>
+    <a href="https://campussync-ai-agent.onrender.com/">View Demo</a>
+    &nbsp; | &nbsp;
+    <a href="https://github.com/anupamabr2004-creator/CampusSync-AI-Agent">View Repository</a>
+  </b>
+</p>
 
 </td>
 </tr>
@@ -235,7 +247,7 @@ memory querying.</i></p>
 
 ### &nbsp; EvolveMoralMaze: Introducing Middle School Students to AI Ethics
 
-![WIP](https://img.shields.io/badge/STATUS-WORK_IN_PROGRESS-yellow?style=for-the-badge)
+![WIP]
 ![Conference](https://img.shields.io/badge/IEEE_FIE-2025-00629B?style=for-the-badge&logo=ieee&logoColor=white)
 
 Research on **AI ethics education methodologies** designed for middle school students — exploring how abstract ethical reasoning around AI systems can be made accessible through interactive learning.
