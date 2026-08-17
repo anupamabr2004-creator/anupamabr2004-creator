@@ -51,7 +51,14 @@
 
 <h3 align="center">&nbsp; Conflict-Aware RAG Pipeline</h3>
 
-<p align="center"><i>A retrieval-augmented generation system engineered to detect and reason through <b>conflicting information</b> across multiple retrieved sources — rather than naively surfacing the top match.</i></p>
+<p align="center"><i>Architected a conflict-aware multi-agent RAG pipeline using LangChain, CrewAI, FAISS, and Gemini, deploying 4 
+specialized agents for retrieval, conflict analysis, evidence ranking, and verdict generation across unstructured 
+documents.</i></p>
+<p align="center"><i>Achieved an 80.0% Recall@3 and 0.6417 Mean Reciprocal Rank (MRR) in document chunk retrieval while 
+maintaining a 100% end-to-end pipeline execution success rate across ground-truth evaluation queries.</i></p>
+<p align="center"><i>Engineered a conflict arbitration engine attaining 80.0% precision and a 0.6154 F1-score in identifying cross
+document contradictions, operating with a lightweight memory footprint of 38.5 MB peak RAM and 12.0% CPU 
+usage. </i></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
